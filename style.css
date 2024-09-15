@@ -1,0 +1,15 @@
+.tanpa-bootstrap {
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    }
+
+.tanpa-bootstrap:hover {
+    background-color: #34db0e;
+    
+    }
